@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coin flip</string>
+    <string name="flip">Flip!</string>
+</resources>
